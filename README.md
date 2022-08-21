@@ -1,4 +1,4 @@
-[![MasterHead](https://media2.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)]
+![MasterHead](https://media2.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 <h1 align="center">Hi 👋, I'm Rohit Yandigeri</h1>
 <h3 align="center">A open source curious from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
