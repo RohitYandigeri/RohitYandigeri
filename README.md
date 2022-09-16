@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Wilco](https://github.com/ObelusFamily/Anythink-Market-amoiq)
 
-- 🌱 I’m currently learning **Cloud computing , IT Automation with Python , DS Algo and problem solving**
+- 🌱 I’m currently learning **Frontend development , Cloud computing , IT Automation with Python , DS Algo and problem solving**
 
 - 📝 I regularly write articles on [https://rohityandigeri.hashnode.dev/](https://rohityandigeri.hashnode.dev/)
 
